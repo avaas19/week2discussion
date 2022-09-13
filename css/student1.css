@@ -24,25 +24,11 @@ body{
    
  }
 
- nav li {
-   border: 2px solid black;
-   background-color: aqua;
-   border-radius: 20px;
-   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
-   padding: 15px;
-   margin: 20px;
-   display: inline-block;
-   width: 20%;
- }
-
 /* Begin my styling below this point */
 
 img {
    display: inline-block;
    max-height: 200px;
-   width: 24%;
-   padding: 11px;
-   border-style: dotted;
-   margin: none;
+   max-width: 200px;
    
 }
