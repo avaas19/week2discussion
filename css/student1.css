@@ -15,16 +15,14 @@ body{
    display: inline-block;
    size: 24%;
    padding: 4px;
-    margin-left: 25px;
-    list-style-type: upper-roman;
-    border-style: solid black;
-    border-radius: 5px;
-    background-color: aqua;
-    color: darkblue;
+   margin-left: 25px;
+   list-style-type: upper-roman;
+   border-style: solid black;
+   border-radius: 5px;
+   background-color: aqua;
+   color: darkblue;
    
  }
-
-/* Begin my styling below this point */
 
  nav li {
    border: 2px solid black;
@@ -37,7 +35,7 @@ body{
    width: 20%;
  }
 
-
+/* Begin my styling below this point */
 
 img {
    display: inline-block;
